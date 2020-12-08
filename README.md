@@ -16,3 +16,7 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 dkdkdkdk
+
+
+#Copyright Notice
+Added
