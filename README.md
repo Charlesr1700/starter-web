@@ -10,7 +10,9 @@ This is a starter web project
 
 ## Purpose
 
+The purpose is to demonstrate a simple git diff
+
 Sample website with plenty of files for demos
 
 ## How to contribute
-
+dkdkdkdk
