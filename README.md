@@ -16,7 +16,6 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 dkdkdkdk
-
+Please fork this repository and then issue PL for review
 
 #Copyright Notice
-Added
