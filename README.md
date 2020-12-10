@@ -15,8 +15,9 @@ The purpose is to demonstrate a simple git diff
 
 Sample website with plenty of files for demos
 
-## How to contribute
+## How to contributei
 dkdkdkdk
 Please fork this repository and then issue PL for review
 
 #Copyright Notice
+All rights reserved
