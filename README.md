@@ -8,7 +8,7 @@ Adding a line for rebasing example, more changes from my featture branch to
 
 ## Introduction
 
-
+Please leave a review if you like this course
 ## Purpose
 
 The purpose is to demonstrate a simple git diff
