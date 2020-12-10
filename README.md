@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 This is a starter web project
 
-Adding a line for rebasing example
+Adding a line for rebasing example, more changes from my featture branch to
 
 ## Introduction
 
